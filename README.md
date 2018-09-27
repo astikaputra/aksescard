@@ -26,7 +26,7 @@ Edit file database.php, sesuaikan dengan kondisi komputer/server Anda.
 'hostname' => 'localhost',
 'username' => 'root',
 'password' => 'root',
-'database' => 'help-it',
+'database' => 'aksescard',
 ```
 
 Buat database help-it, kemudian import database 
@@ -43,6 +43,8 @@ help-it.sql
 
 
 ### Authors
+
+Aplikasi di kembangkan dari Account Github di bawah
 
 * **Mardino Santosa** - [zdienos](https://github.com/zdienos)
 
